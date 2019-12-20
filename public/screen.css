@@ -23,7 +23,13 @@ border: .5rem solid gray;
 .par {
 font-size: 1.5rem;  
 font-family: 'Times New Roman';
-border: .25rem dashed black;
+border: .25rem dotted black;
 border-radius: .5rem;
 }
 
+.lip {
+  border: .5rem dashed black;
+  font-size:1rem;
+  font-family: Cambria;
+  background-color: blanchedalmond;
+}
