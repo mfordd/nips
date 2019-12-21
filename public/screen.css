@@ -27,7 +27,7 @@ background: white;
 color:rgb(82, 78, 78);
 padding: 10rem;
 display: flex;  
-flex-direction: row;
+flex-direction: row-reverse;
 }
 
 div {
@@ -46,6 +46,7 @@ li {
   display: inline-block;
   margin-right: 3rem;
   list-style: none;
+  border: 1rem solid white;
 }
 
 footer {
